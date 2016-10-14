@@ -7,7 +7,7 @@ name = edit
 	size = 17287
 end
 
-name = luaIDE
+name = luaide
 	type = raw
 		url = http://pastebin.com/raw/vyAZc6tJ
 		filename = luaide
