@@ -1,6 +1,6 @@
 name = edit
 	type = raw
-		url = 
+		url = https://raw.githubusercontent.com/Piorjade/cLinuxREPO/master/repo/edit
 		filename = edit
 	dependencies = none
 	version = 1.0
